@@ -1,4 +1,4 @@
-Monthly IMF bilateral real exchange rate explorer. Python 3.12.
+"""Monthly IMF bilateral real exchange rate explorer. Python 3.12."""
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timezone
 from io import StringIO
